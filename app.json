@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "app-aun-sin-nombre",
+    "slug": "snack-5e95b665-f8bc-4b1d-af64-3c3aab4a9897",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/Byjus5/bibilioteca-digital-PRO-C68 @ Feb 2, 2022"
+  }
+}
