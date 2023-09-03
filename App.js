@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import LoginStackNav from './navigation/LoginStackNav';
+import firebaseApp from './firebaseApp';
 
 export default class App extends Component {
   constructor(props){
